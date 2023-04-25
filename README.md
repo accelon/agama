@@ -1,2 +1,2 @@
-# ebt-zh
-early buddhist texts in chinese
+# agama
+Chinese Agama
